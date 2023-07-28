@@ -1,0 +1,70 @@
+*{
+    font-family:'Poppins',sans-serif ;
+    
+    color: #fff;
+}
+section{
+    background-image: linear-gradient(to right top, #fd5d93, #ff6b7b, #ff8064, #ff9851, #fcb045);
+  
+}
+
+
+.title{
+    font-family: 'Uchen', serif;
+    text-shadow: 0 0 20px rgb(255, 0, 242);    
+    font-weight: bolder;
+}
+p{
+    text-align: center;
+    font-weight: 50px;
+    
+
+}
+.img{
+    
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    border-radius: 50px !important;
+    
+}
+img{
+    border-radius:30px !important;
+    padding: 5px;
+}
+.card{
+     padding: 0% !important;
+    border: none !important;
+    padding-top: 0px !important;
+    padding-bottom: 0% !important;
+    background-color: rgba(255, 255, 255, 0); 
+    background-image: linear-gradient(to right top, #191714, #39190b, #5e0523, #70005d, #2234ae);
+ border-radius: 40px !important;
+}
+    
+
+.bdy h2{
+    text-shadow: 0 0 20px blue;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+
+.venue p{
+    margin-top: 5px;
+    border: none;
+    color: #fff !important;
+}
+.container{
+    text-shadow: 0 0 10000px blue !important;
+    padding: 50px;
+    background-image: linear-gradient(to right top, #191714, #39190b, #5e0523, #70005d, #2234ae);
+    backdrop-filter: blur(80px);
+
+}
+.card-body{
+    padding: 0px !important;
+    margin-top: 20px !important;
+    font-size: 0px !important;
+}
+
